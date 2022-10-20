@@ -3,7 +3,6 @@
 #include <stack>
 #include <bits/stdc++.h>
 #include <cmath>
-#include <stdlib.h>
 #include <vector>
 
 using namespace std;
